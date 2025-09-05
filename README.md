@@ -81,7 +81,4 @@ The To-Do List application allows you to:
 
 *(Optional section for contribution guidelines if this is a collaborative project.)*
 
-## License
-
-*(Optional section for license information.)*
->>>>>>> f0c2d87c2263c069268b92be5da864b75bcc0ac7
+## Contact:austinibe15@gmail.com
